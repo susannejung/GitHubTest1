@@ -7,5 +7,6 @@ public class Main {
         System.out.print("Hej1");
         System.out.print("Hej2");
         System.out.print("Hej3");
+        System.out.print("Hej4");
     }
 }
